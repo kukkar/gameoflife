@@ -14,7 +14,7 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 1. Clone this repository to your local machine.
 
 ```bash
-git clone <repository_url>
+git clone <git@github.com:kukkar/gameoflife.git>
 ```
 
 3. Navigate to the project directory.
@@ -32,3 +32,8 @@ cd conways-game-of-life-go
 ```bash
 ./gameoflife-mac
 ```
+
+## Usage
+
+- The program will display each generation of the game in the console.
+- The grid will continuously evolve based on the rules until you stop the program manually (Ctrl+C).
