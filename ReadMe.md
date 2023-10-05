@@ -1,8 +1,7 @@
-Certainly! Here's a basic README for your Conway's Game of Life implementation in Go:
 
 ---
 
-# Conway's Game of Life in Go
+# Game of Life
 
 This is a simple implementation of Conway's Game of Life in the Go programming language.
 
@@ -26,10 +25,10 @@ cd conways-game-of-life-go
 
 4. Run the program if your OS is linux.
 ```bash
-go run main.go
+./gameoflife-linux
 ```
 
 5. Run the program if your OS is mac.
 ```bash
-go run main.go
+./gameoflife-mac
 ```
